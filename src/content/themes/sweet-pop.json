@@ -19,12 +19,17 @@
     "proxzima"
   ],
   "submitterRole": "legacy",
-  "status": "published",
+  "status": "archived",
   "catalogIndex": 2,
   "stats": {
     "stars": 265,
     "updatedAt": "2023-03-25T10:54:34Z",
     "ownerAvatar": "https://avatars.githubusercontent.com/u/43103163?v=4",
     "accessible": true
+  },
+  "retirement": {
+    "reason": "repository-archived",
+    "checkedAt": "2026-09-01T08:45:03.285Z",
+    "details": "Repository is archived by its owner."
   }
 }
